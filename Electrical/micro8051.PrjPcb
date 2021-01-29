@@ -125,7 +125,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RWTHGEDG
 
 [Document6]
-DocumentPath=8051.SchDoc
+DocumentPath=micro8051.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,7 +139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FSXCGDHH
+DocumentUniqueId=NKURBWFY
 
 [Configuration1]
 Name=Sources
