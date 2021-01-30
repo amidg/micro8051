@@ -1,0 +1,19 @@
+Added Component: Designator=8051-SERIAL(1206_A)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150120RS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206_A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "150120RS75000"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC2013X60X40ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB123V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=8051-SERIAL-1
+Added Pin To Net: NetName=SERIAL-CHA Pin=R26-1
+Added Pin To Net: NetName=Net8051-SERIAL_2 Pin=8051-SERIAL-2
+Added Pin To Net: NetName=Net8051-SERIAL_2 Pin=R26-2
+Added Net: Name=Net8051-SERIAL_2
+Added Member To Class: ClassName=USB Member=Component 8051-SERIAL 150120RS75000
+Added Member To Class: ClassName=USB Member=Component R26 1K 1% 0805

@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=8051-SERIAL-1
+Removed Member From Class: ClassName=USB Member=8051-SERIAL
+Change Component Footprint: Designator=3V3 Old Footprint=1206_A New Footprint=0805_A
+Change Component Footprint: Designator=5V Old Footprint=1206_A New Footprint=0805_A
+Change Component Footprint: Designator=D8 Old Footprint=1206_A New Footprint=0805_A
+Change Component Comment : Designator=D8 Old Comment=150120BS75000 New Comment=150080BS75000
+Change Component Comment : Designator=3V3 Old Comment=150120GS75000 New Comment=150080GS75000
+Change Component Comment : Designator=5V Old Comment=150120GS75000 New Comment=150080GS75000
+Change Managed Component Library Link : Designator=3V3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BFAEAF46-64D6-4F88-A2DB-1F3E5014C5FB New ItemGUID=7CA29E68-737E-4B72-8298-495A0034E04A Old RevisionGUID=F8D53525-D37B-4A79-9547-6691E9AEC5D9 New RevisionGUID=176256F5-FDF0-497E-BE5F-A62C8B2BC32C
+Change Managed Component Library Link : Designator=5V Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BFAEAF46-64D6-4F88-A2DB-1F3E5014C5FB New ItemGUID=7CA29E68-737E-4B72-8298-495A0034E04A Old RevisionGUID=F8D53525-D37B-4A79-9547-6691E9AEC5D9 New RevisionGUID=176256F5-FDF0-497E-BE5F-A62C8B2BC32C
+Change Managed Component Library Link : Designator=D8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F5BDC95A-B73A-4D1E-9A3C-AF7B0641D4D2 New ItemGUID=7830F468-4E43-403D-B52E-22B2DF0E9980 Old RevisionGUID=42845A3E-2F4B-4967-AE66-FBFE31FE987B New RevisionGUID=8899F253-6CBE-4369-B1D3-B6E5EE95657B
+Change component parameters: Designator = "3V3" ("3V3"); Footprint = "1206_A"; UniqueID = "\DSRWVPRK" ("\DSRWVPRK")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "5V" ("5V"); Footprint = "1206_A"; UniqueID = "\ELVKXBZL" ("\ELVKXBZL")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080GS75000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "150080GS75000"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "1206_A"; UniqueID = "\MSNITPVU" ("\MSNITPVU")
+Change component parameters (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080BS75000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "150080BS75000"; VariantName = "[No Variations]"
+Added Component: Designator=8051-UART(0805_A)
+Add component (AddParameter): Name = "Color"; Value = "Super Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150080SS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805_A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "150080SS75000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=8051-UART-1
+Added Pin To Net: NetName=Net8051-UART_2 Pin=8051-UART-2
+Added Pin To Net: NetName=Net8051-UART_2 Pin=R26-2
+Added Net: Name=Net8051-UART_2
+Added Member To Class: ClassName=USB Member=Component 8051-UART 150080SS75000

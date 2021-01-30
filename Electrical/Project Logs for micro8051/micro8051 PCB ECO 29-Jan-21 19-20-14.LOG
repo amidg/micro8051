@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC12_2 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=FP-ABLS-MFG New Footprint=JPY-49S-18PF
+Change Component Comment : Designator=Y1 Old Comment=ABLS-16.000MHZ-K4T New Comment=49S/18PF
+Change Managed Component Library Link : Designator=Y1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=49725EE6-3892-4C99-A202-8ECA63DC8493 New ItemGUID=E1F6B393-3CCB-4E74-9C6B-9D3A982B05C2 Old RevisionGUID=2063FA9C-B2B0-4BEA-93BD-FB32CB4E23E4 New RevisionGUID=FF23DFA6-4F24-4717-977B-929664D617A7
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "FP-ABLS-MFG"; UniqueID = "\HGUAOFLI" ("\HGUAOFLI")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/49S-18PF-Xinhunjing-datasheet-30677139.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "41852.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Shenzhen Jingpengyuan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.chjiahui.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Body 11.05 x 4.65 mm, Pitch 4.88 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "49S-18PF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC12_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC13_2 Pin=Y1-2
