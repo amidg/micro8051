@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [micro8051.PrjPcb]
+   Generated File[micro8051-RoundHoles.TXT]
+   Generated File[micro8051-SlotHoles.TXT]
+   Generated File[micro8051.LDP]
+   Generated File[micro8051.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:36:41 On 30-Jan-21

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\amidg\OneDrive\GUSEV TECH\PROJECTS\GT_Universal8051\Hardware\micro8051\Electrical\micro8051.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=micro8051-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=micro8051-slotholes.txt|DrillLayers=gtl,gbl
