@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: micro8051.GBR   30-Jan-21  22:36:13
+Gerber File Extension Report For: micro8051.GBR   01-Feb-21  09:40:59
 ------------------------------------------------------------------------------------------
 
 
@@ -15,8 +15,10 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GM3                Top Courtyard                           
 .GM13               Mechanical 13                           
 .GM15               Mechanical 15                           
+.GM21               Bottom Courtyard                        
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       

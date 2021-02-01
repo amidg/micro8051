@@ -2,6 +2,17 @@
 FileName = micro8051.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Courtyard
+      File : micro8051.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 15
       File : micro8051.GM15
 
@@ -23,6 +34,17 @@ Generating : Mechanical 13
 Used DCodes :
     D94
     D95
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : micro8051.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
