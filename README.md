@@ -20,7 +20,7 @@ Revision History:
 - Rev.A2 (breadboard only): MCP2221A (DIP) + Arduino Uno (DIP) + 8051 (DIP)
 - Rev.A3: Rev.A2 + 2x MCP2221A for 8051 direct USB communication
 - Rev.A4: ATmega16u2 (Hoodloader @ SMD) + ATmega2560 (extra @ SMD) + 8051 (SMD)
-- Rev.A5 (current): FT231XS + MCP2221A (SMD) + ATmega328P (SMD, UART<->SPI flashing) + 8051 (SMD)
+- Rev.A5 (current): FT231XS + ATmega328P (SMD, UART<->SPI flashing) + 8051 (SMD) + UART bridge
 
 Important notes: 
 When communicating to Arduino, 8051 cannot take control over Serial communication. 
