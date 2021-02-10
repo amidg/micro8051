@@ -6,13 +6,12 @@ Some background:
 Initially I started this project around 2 years ago while taking MSE352 "Digital Logic and Microcontrollers" at Simon Fraser University, Canada. 
 This project was supervised by Dr. Mohammad Narimani and Dr. Amr Marzouk. 
 
-Main goal of the project was to reduce the cost of equipment and provide students with advanced and open-source alternative for the board designed by MikroElektronika which is costly and lacks modern functionality. 
+Main goal of the project was to reduce the cost of equipment and provide students with advanced and open-source alternative for the board designed by MikroElektronika which is costly and lacks modern functionality such as common USB Type-C port or 8051-to-USB. Additionally, board my MikroElektronika is quite huge and not breadboard friendly. 
 
 Achieved results:
 - Total cost of purchasing was reduced by half (from $90 to ~$40, even with fabrication and parts located in NA)
 - Smaller breadboard-friendly form-factor
 - In-built Arduino Uno R3
-- 8051 can take control of the Arduino functionality (via additional UART MUX, Arduino must support SoftwareSerial @ 9600 baud)
 - 8051 can communicate to the USB directly (UART<->USB)
 
 Revision History:
@@ -23,7 +22,7 @@ Revision History:
 - Rev.A5 (current): FT231XS + ATmega328P (SMD, UART<->SPI flashing) + 8051 (SMD) + UART bridge
 
 Important notes: 
-When communicating to Arduino, 8051 cannot take control over Serial communication. 
+When 8051 communicates to USB port, Arduino cannot take over the USB port. However, USB functionality can be controlled both manually and via 8051. See schematic for details.
 
 Gerbers and BOMs are located in Manufacturing folder. 
 
